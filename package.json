@@ -1,0 +1,15 @@
+{
+    "name": "1st",
+    "description": "site",
+    "author": {
+        "name": "Yunnii"
+    },
+    "version": "1.0.0",
+    "dependencies": {
+        "connect": "*"
+    },
+    "engines": {
+        "node": "*",
+        "npm": "*"
+    }
+}
